@@ -1,9 +1,10 @@
 <template>
-  <div class=""></div>
+  <div class="">个人</div>
 </template>
 
 <script>
 export default {
+    name: "Profile",
   components: {},
   data() {
     return {}
@@ -21,4 +22,4 @@ export default {
 }
 </script>
 
-<style lang="scss" src=""></style>
+<style lang="scss" scoped></style>
